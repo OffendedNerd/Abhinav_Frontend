@@ -24,7 +24,7 @@ Incorporates basic validation measures in sign-up and profile editing forms to e
 
 ![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2019.02.37_c8dd74f8.jpg)
 
-![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2019.03.24_eaa967dd.jpg)
+![Image 3](https://github.com/OffendedNerd/Abhinav_Frontend/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2019.03.24_eaa967dd.png)
 
 
 ![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2019.05.46_1723024c.jpg)
